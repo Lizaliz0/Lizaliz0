@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Lizaliz0/Lizaliz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span align="center">
 
-Here are some ideas to get you started:
+##  Olá, sou a Liz! 👋 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</span>
+
+
+<div align="center">
+<img src="https://github.com/Lizaliz0/Lizaliz0/assets/138259133/6df4e6f1-65c2-48c8-be6c-f225609b72ba" width="450px"  />
+</div>
+<br/>
+
+<p align="center">
+  Olá! Meu nome é Lizandra, atualmente curso análise e desenvolvimento de sistemas e desenvolvimento de software com foco em backend pela Cubos Academy. 
+
+</p>
+<br/>
+
+<p align="center">
+  🚀  <strong>Learning: </strong> JavaScript, SQL, NodeJS, Java, JUnit.
+</p>
+
+<p align="center">
+  💗 Text me: 💗
+</p>
+
+<p align="center">
+  <a href="https:/www.linkedin.com/in/lizzgomes//" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/lizzgomes//" /></a>
+</p>  
+
