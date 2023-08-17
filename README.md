@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-  Olá! Meu nome é Lizandra, atualmente curso análise e desenvolvimento de sistemas e desenvolvimento de software com foco em backend pela Cubos Academy. 
+  Opa! Meu nome é Lizandra, atualmente curso análise e desenvolvimento de sistemas e desenvolvimento de software com foco em backend pela Cubos Academy. Em momentos livres, costumo preparar alguma sobremesa que eu goste ou aproveitar para passear! 
 
 </p>
 <br/>
