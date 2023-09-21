@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https:/www.linkedin.com/in/lizzgomes//" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lizzgomes/" alt="Linkedin">
   <img src ="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/lizzgomes//" /></a>
   <a href="mailto:lizz.works007@gmail.com" alt="Gmail">
   <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:lizz.works007@gmail.com" /></a>
