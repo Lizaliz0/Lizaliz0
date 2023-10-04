@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  🚀  <strong>Learning: </strong> JavaScript, SQL, NodeJS, Html, CSS.
+  🚀  <strong>Learning: </strong> JavaScript, PostgreSQL, NodeJS, Html, CSS.
 </p>
 
 <p align="center">
